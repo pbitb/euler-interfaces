@@ -36,6 +36,8 @@ contracts=(
   "TermsOfUseSigner"
   "RewardToken"
   "EdgeFactory"
+  "ERC4626EVCCollateralSecuritize"
+  "ERC4626EVCCollateralSecuritizeFactory"
 )
 
 for contract in "${contracts[@]}"; do
