@@ -194,6 +194,14 @@ let chains = [
     status: 'testing',
   },
 
+  {
+    chainId: 747474,
+    name: 'katana',
+    safeBaseUrl: 'https://app.safe.global',
+    safeAddressPrefix: 'katana',
+    status: 'testing',
+  },
+
 ];
 
 
